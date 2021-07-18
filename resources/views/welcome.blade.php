@@ -42,7 +42,7 @@
                 <div class="panel-body">
                     <div class="panel aja">
                         <a href="#" type="button" class="btn btn-success tombol">SEND REQUEST API</a>
-                        <a href="#" type="button" class="btn btn-success test">test</a>
+                        <!-- <a href="#" type="button" class="btn btn-success test">test</a> !-->
                     </div>
                     <label> Response API:</label>
 
